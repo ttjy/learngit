@@ -4,3 +4,4 @@ Git has a mutable index called stage
 Git tracks changes of files.
 Text push to GitHub
 Creating a new branch is quick AND simple.
+Git no-ff
